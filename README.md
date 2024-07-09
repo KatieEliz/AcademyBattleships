@@ -7,7 +7,7 @@ We will add to this during the session
 ## Exercise 1 - Place a ship on the Sea
 
 - Find `TestSeaNotEmpty` in `battleships_test.go`
-- Design how to put a ship on the Sea (hint: a method is a good choice)
+- Design how to put a ship on the Sea (hint: a [method](https://gobyexample.com/methods) is a good choice)
 - Fill in the Act section
 - Implement the code
 
